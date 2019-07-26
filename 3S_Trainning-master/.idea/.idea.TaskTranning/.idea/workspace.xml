@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="997ed8db-d62a-40f5-9ff5-2680fd528a6a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UserServices.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/UserServices.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1485">
+              <folding>
+                <marker date="1557470655580" expanded="false" signature="6:265" ph="..." />
+                <marker date="1557470655580" expanded="true" signature="299:6389" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="302:920" ph="/* public interface IUserServices ... */" />
+                <marker date="1557470655580" expanded="true" signature="976:6387" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="1174:1256" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="1301:1355" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="1412:1828" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="1503:1561" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="1735:1793" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="1893:2100" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="2171:2381" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="2460:3595" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="2486:3444" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="2700:2804" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="2857:3308" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="3476:3572" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="3658:3869" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="3946:4191" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="4261:5331" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="4287:5180" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="4597:4701" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="5212:5308" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="5429:5934" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="5455:5796" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="5828:5924" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="5986:6381" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="6012:6230" ph="{...}" />
+                <marker date="1557470655580" expanded="true" signature="6262:6358" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddUserViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/AddUserViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1557480422280" expanded="true" signature="6:77" ph="..." />
+                <marker date="1557480422280" expanded="true" signature="112:870" ph="{...}" />
+                <marker date="1557480422280" expanded="true" signature="148:868" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditPasswordUserViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditPasswordUserViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding>
+                <marker date="1557480480567" expanded="true" signature="79:802" ph="{...}" />
+                <marker date="1557480480567" expanded="true" signature="124:800" ph="{...}" />
+                <marker date="1557480480567" expanded="true" signature="237:418" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Create.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Create.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1557391846955" expanded="true" signature="128:234" ph="@..." />
+                <marker date="1557391846955" expanded="true" signature="235:1501" ph="&lt;div.../&gt;" />
+                <marker date="1557391846955" expanded="true" signature="324:1494" ph="&lt;div.../&gt;" />
+                <marker date="1557391846955" expanded="true" signature="348:485" ph="@..." />
+                <marker date="1557391846955" expanded="true" signature="386:485" ph="{...}" />
+                <marker date="1557391846955" expanded="true" signature="494:1321" ph="&lt;form.../&gt;" />
+                <marker date="1557391846955" expanded="true" signature="577:963" ph="&lt;div.../&gt;" />
+                <marker date="1557391846955" expanded="true" signature="994:1300" ph="&lt;div.../&gt;" />
+                <marker date="1557391846955" expanded="true" signature="1034:1281" ph="&lt;div.../&gt;" />
+                <marker date="1557391846955" expanded="true" signature="1079:1258" ph="&lt;div.../&gt;" />
+                <marker date="1557391846955" expanded="true" signature="1330:1483" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edit.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Edit.cshtml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <folding>
+                <marker date="1557302013543" expanded="true" signature="133:238" ph="@..." />
+                <marker date="1557302013543" expanded="true" signature="245:376" ph="@..." />
+                <marker date="1557302013543" expanded="true" signature="286:376" ph="{...}" />
+                <marker date="1557302013543" expanded="true" signature="381:2205" ph="&lt;div.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="503:921" ph="@..." />
+                <marker date="1557302013543" expanded="true" signature="527:693" ph="{...}" />
+                <marker date="1557302013543" expanded="true" signature="706:921" ph="{...}" />
+                <marker date="1557302013543" expanded="true" signature="931:2194" ph="&lt;table.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="994:1198" ph="&lt;thead.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="1014:1177" ph="&lt;tr.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="1211:2177" ph="&lt;tbody.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="1231:2156" ph="@..." />
+                <marker date="1557302013543" expanded="true" signature="1260:2156" ph="{...}" />
+                <marker date="1557302013543" expanded="true" signature="1314:1423" ph="{...}" />
+                <marker date="1557302013543" expanded="true" signature="1444:2142" ph="{...}" />
+                <marker date="1557302013543" expanded="true" signature="1483:2124" ph="&lt;tr.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="1512:1633" ph="&lt;td.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="1658:2098" ph="&lt;td.../&gt;" />
+                <marker date="1557302013543" expanded="true" signature="1848:2068" ph="&lt;a.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditUserViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditUserViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+              <folding>
+                <marker date="1557480384568" expanded="true" signature="6:104" ph="..." />
+                <marker date="1557480384568" expanded="true" signature="139:1262" ph="{...}" />
+                <marker date="1557480384568" expanded="true" signature="176:1260" ph="{...}" />
+                <marker date="1557480384568" expanded="true" signature="263:522" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserProfile.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/UserProfile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1557386864646" expanded="false" signature="6:44" ph="..." />
+                <marker date="1557386864646" expanded="true" signature="79:386" ph="{...}" />
+                <marker date="1557386864646" expanded="true" signature="120:384" ph="{...}" />
+                <marker date="1557386864646" expanded="true" signature="155:378" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/UserViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+              <folding>
+                <marker date="1557480384620" expanded="true" signature="6:71" ph="..." />
+                <marker date="1557480384620" expanded="true" signature="106:1200" ph="{...}" />
+                <marker date="1557480384620" expanded="true" signature="144:1198" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/LoginViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1557480384424" expanded="true" signature="33:177" ph="{...}" />
+                <marker date="1557480384424" expanded="true" signature="67:175" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/ICustomerServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/IStoreServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/IUserServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/IProductServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/ICategoryServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/IBrandServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/IStockServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/ProductServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/UserServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/CategoryServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/StockServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/StoreServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/BrandServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/CustomerServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Resources/SharedResource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Resources/SharedResource.vi-VN.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Resources/Views.Home.Index.vi-VN.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Resources/ResourcesServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/Store.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/Order.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/StockController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/Stock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/ErrorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/Customer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/CategoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/OrderItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/StoreController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/BrandController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Controllers/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/Brand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CustomerViewModel/CustomerViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Infrastructure/SecurePasswordHasher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Models/CodeFirstDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CustomerViewModel/CustomerProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/CustomerValidator/CustomerValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/CategoryValidator/CategoryValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/ProductValidator/ActionProductValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/ProductValidator/ProductValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/StoreValidator/EditStoreValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/StoreValidator/StoreValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/StockValidator/StockValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/BrandValidator/BrandValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/EditUserValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/EditPasswordValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/UserValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/LoginValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/AddUserValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CategoryViewModel/CategoryViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CategoryViewModel/CategoryProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ProductProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ActionProductViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ProductViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StoreViewModel/EditStoreViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StoreViewModel/StoreProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StoreViewModel/StoreViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StockViewModel/StockViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StockViewModel/StockProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/BrandViewModel/BrandViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/BrandViewModel/BrandProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Views/User/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditPasswordUserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Views/User/_ChangePassword.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/AddUserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/UserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/UserProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditUserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskTranning/Seed/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TaskTranning/AllViewModels/CategoryValidator/CategoryValidator.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/AllViewModels/ProductValidator/ActionProductValidator.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/AllViewModels/ProductValidator/ProductValidator.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/EditPasswordValidator.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/EditUserValidator.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/LoginValidator.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/AllViewModels/UserValidator/UserValidator.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/Brand.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/Category.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/CodeFirstDataContext.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/Customer.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/ErrorViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/Order.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/OrderItem.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/User.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/Store.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/Stock.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Resources/SharedResource.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/Seed/DbContext.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ProductProfile.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ProductViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/StockViewModel/StockViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/StockViewModel/StockProfile.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/StoreViewModel/StoreViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/LoginViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/UserViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditUserViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/AddUserViewModel.cs" />
+        <option value="$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditPasswordUserViewModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="855" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BrandValidator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CategoryValidator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CustomerValidator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ProductValidator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StockValidator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StoreValidator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AllViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UserValidator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependency" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependency" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Interface" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependency" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Resources" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Seed" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BrandViewModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CategoryViewModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CustomerViewModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ProductViewModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StockViewModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StoreViewModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UserViewModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Brand" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TaskTranning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TaskTranning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="User" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskTranning/bin/Debug/netcoreapp2.2/TaskTranning.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskTranning" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskTranning/TaskTranning.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser start="true" url="https://localhost:5001" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997ed8db-d62a-40f5-9ff5-2680fd528a6a" name="Default" comment="" />
+      <created>1557479194829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557479194829</updated>
+      <workItem from="1557479199364" duration="2063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2063000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.329718" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/IStoreServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557469023655" expanded="false" signature="6:121" ph="..." />
+            <marker date="1557469023655" expanded="true" signature="164:516" ph="{...}" />
+            <marker date="1557469023655" expanded="true" signature="202:514" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Interface/IUserServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557470655640" expanded="false" signature="6:121" ph="..." />
+            <marker date="1557470655640" expanded="true" signature="164:749" ph="{...}" />
+            <marker date="1557470655640" expanded="true" signature="201:747" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/BrandServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557470271860" expanded="false" signature="6:244" ph="..." />
+            <marker date="1557470271860" expanded="true" signature="277:2831" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="327:2829" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="515:597" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="644:699" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="771:965" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="1046:1510" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="1072:1360" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="1141:1222" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="1392:1488" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="1577:1800" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="1877:2366" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="1903:2215" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="2247:2343" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="2428:2821" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="2454:2670" ph="{...}" />
+            <marker date="1557470271860" expanded="true" signature="2702:2798" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/CategoryServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557470271908" expanded="false" signature="6:241" ph="..." />
+            <marker date="1557470271908" expanded="true" signature="274:2942" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="330:2940" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="521:603" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="657:715" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="790:1006" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="1085:1562" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="1111:1411" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="1188:1267" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="1443:1539" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="1632:1873" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="1951:2467" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="1977:2316" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="2348:2444" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="2532:2934" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="2558:2783" ph="{...}" />
+            <marker date="1557470271908" expanded="true" signature="2815:2911" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/CustomerServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557471283753" expanded="false" signature="6:247" ph="..." />
+            <marker date="1557471283753" expanded="true" signature="280:3650" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="336:3648" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="520:602" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="655:713" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="779:991" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="1068:1862" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="1094:1711" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="1171:1567" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="1743:1839" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="1924:2164" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="2244:3167" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="2270:3016" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="3048:3144" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="3224:3635" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="3250:3484" ph="{...}" />
+            <marker date="1557471283753" expanded="true" signature="3516:3612" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/ProductServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557470278144" expanded="false" signature="6:263" ph="..." />
+            <marker date="1557470278144" expanded="true" signature="296:5460" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="350:5458" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="540:622" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="681:738" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="813:1066" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="1156:2207" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="1182:2056" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="1398:1504" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="1565:1914" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="2088:2184" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="2283:2508" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="2597:3659" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="2623:3508" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="2840:2947" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="3540:3636" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="3669:4980" ph="/* public  async Task&lt;EditProductImageViewModel&gt; GetIdProductImage(int? Id) ... */" />
+            <marker date="1557470278144" expanded="true" signature="5044:5443" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="5070:5292" ph="{...}" />
+            <marker date="1557470278144" expanded="true" signature="5324:5420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/StockServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557470464245" expanded="false" signature="6:244" ph="..." />
+            <marker date="1557470464245" expanded="true" signature="277:3699" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="327:3692" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="515:597" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="644:699" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="762:1002" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="1080:2086" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="1106:1935" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="1264:1472" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="1493:1879" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="1574:1758" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="1967:2063" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="2174:2435" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="2512:3149" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="2538:2998" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="2700:2801" ph="/* stock.ProductId = editStock.ProductId; ... */" />
+            <marker date="1557470464245" expanded="true" signature="3030:3126" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="3232:3686" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="3258:3535" ph="{...}" />
+            <marker date="1557470464245" expanded="true" signature="3567:3663" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/StoreServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557470508875" expanded="false" signature="6:229" ph="..." />
+            <marker date="1557470508875" expanded="true" signature="262:3298" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="312:3296" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="492:574" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="621:676" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="740:934" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="1013:1742" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="1039:1591" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="1108:1453" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="1623:1719" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="1805:2032" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="2105:2843" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="2131:2692" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="2724:2820" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="2897:3290" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="2923:3139" ph="{...}" />
+            <marker date="1557470508875" expanded="true" signature="3171:3267" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Infrastructure/SecurePasswordHasher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <folding>
+            <marker date="1555381630683" expanded="false" signature="6:49" ph="..." />
+            <marker date="1555381630683" expanded="true" signature="88:2929" ph="{...}" />
+            <marker date="1555381630683" expanded="true" signature="128:2927" ph="{...}" />
+            <marker date="1555381630683" expanded="true" signature="144:205" ph="/// Size of salt ... " />
+            <marker date="1555381630683" expanded="true" signature="255:316" ph="/// Size of hash ... " />
+            <marker date="1555381630683" expanded="true" signature="366:607" ph="/// Creates a hash from a password ... " />
+            <marker date="1555381630683" expanded="true" signature="674:1388" ph="{...}" />
+            <marker date="1555381630683" expanded="true" signature="1397:1594" ph="/// Creates a hash from a password with 10000 iterations ... " />
+            <marker date="1555381630683" expanded="true" signature="1645:1707" ph="{...}" />
+            <marker date="1555381630683" expanded="true" signature="1716:1961" ph="/// verify a password against a hash ... " />
+            <marker date="1555381630683" expanded="true" signature="2035:2921" ph="{...}" />
+            <marker date="1555381630683" expanded="true" signature="2732:2886" ph="{...}" />
+            <marker date="1555381630683" expanded="true" signature="2802:2872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/Brand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1557479760400" expanded="true" signature="64:263" ph="{...}" />
+            <marker date="1557479760400" expanded="true" signature="89:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/Category.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1557479778819" expanded="true" signature="64:277" ph="{...}" />
+            <marker date="1557479778819" expanded="true" signature="92:275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/CodeFirstDataContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+          <folding>
+            <marker date="1557479781775" expanded="true" signature="67:7884" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="119:7877" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="163:183" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="284:304" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="925:7871" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="1113:1546" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="1641:1981" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="2029:2398" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="2446:2817" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="2861:3196" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="3229:3722" ph="/* modelBuilder.Entity&lt;Order&gt;().HasData( ... */" />
+            <marker date="1557479781775" expanded="true" signature="3821:4199" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="4300:4391" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="4438:4527" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="4574:4666" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="4713:4803" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="4850:4940" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="5039:5312" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="5341:5614" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="5660:5933" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="5979:6256" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="6302:6572" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="6575:6806" ph="/* modelBuilder.Entity&lt;Stock&gt;().HasData( ... */" />
+            <marker date="1557479781775" expanded="true" signature="6899:6984" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="7028:7114" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="7158:7243" ph="{...}" />
+            <marker date="1557479781775" expanded="true" signature="7287:7371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1557479787619" expanded="true" signature="64:636" ph="{...}" />
+            <marker date="1557479787619" expanded="true" signature="92:634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557479789131" expanded="true" signature="30:196" ph="{...}" />
+            <marker date="1557479789131" expanded="true" signature="64:194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/Order.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1557479794219" expanded="true" signature="6:58" ph="..." />
+            <marker date="1557479794219" expanded="true" signature="89:580" ph="{...}" />
+            <marker date="1557479794219" expanded="true" signature="114:578" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/OrderItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1557479827251" expanded="true" signature="75:383" ph="{...}" />
+            <marker date="1557479827251" expanded="true" signature="104:381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557479829886" expanded="true" signature="29:574" ph="{...}" />
+            <marker date="1557479829886" expanded="true" signature="53:572" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/Store.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1557479832770" expanded="true" signature="64:662" ph="{...}" />
+            <marker date="1557479832770" expanded="true" signature="89:660" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/Stock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557479834426" expanded="true" signature="29:344" ph="{...}" />
+            <marker date="1557479834426" expanded="true" signature="54:342" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Models/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1557479836474" expanded="true" signature="64:663" ph="{...}" />
+            <marker date="1557479836474" expanded="true" signature="91:661" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Resources/ResourcesServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557310149493" expanded="true" signature="6:65" ph="..." />
+            <marker date="1557310149493" expanded="true" signature="99:635" ph="{...}" />
+            <marker date="1557310149493" expanded="true" signature="136:633" ph="{...}" />
+            <marker date="1557310149493" expanded="true" signature="264:496" ph="{...}" />
+            <marker date="1557310149493" expanded="true" signature="571:627" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Resources/SharedResource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1557479839922" expanded="true" signature="34:168" ph="{...}" />
+            <marker date="1557479839922" expanded="true" signature="41:122" ph="/// Dummy class to group shared resources ... " />
+            <marker date="1557479839922" expanded="true" signature="154:166" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Resources/SharedResource.vi-VN.resx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Resources/Views.Home.Index.vi-VN.resx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Seed/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <marker date="1557479853178" expanded="true" signature="6:63" ph="..." />
+            <marker date="1557479853178" expanded="true" signature="92:272" ph="{...}" />
+            <marker date="1557479853178" expanded="true" signature="128:270" ph="{...}" />
+            <marker date="1557479853178" expanded="true" signature="203:264" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/BrandViewModel/BrandProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557396420426" expanded="false" signature="6:44" ph="..." />
+            <marker date="1557396420426" expanded="true" signature="94:248" ph="{...}" />
+            <marker date="1557396420426" expanded="true" signature="136:246" ph="{...}" />
+            <marker date="1557396420426" expanded="true" signature="172:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/BrandViewModel/BrandViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556187267083" expanded="true" signature="94:307" ph="{...}" />
+            <marker date="1556187267083" expanded="true" signature="128:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CategoryViewModel/CategoryProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557390514889" expanded="true" signature="64:237" ph="{...}" />
+            <marker date="1557390514889" expanded="true" signature="109:235" ph="{...}" />
+            <marker date="1557390514889" expanded="true" signature="148:229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CategoryViewModel/CategoryViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556185686831" expanded="true" signature="91:312" ph="{...}" />
+            <marker date="1556185686831" expanded="true" signature="128:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CustomerViewModel/CustomerProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557390232257" expanded="false" signature="6:44" ph="..." />
+            <marker date="1557390232257" expanded="true" signature="97:263" ph="{...}" />
+            <marker date="1557390232257" expanded="true" signature="142:261" ph="{...}" />
+            <marker date="1557390232257" expanded="true" signature="181:255" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/CustomerViewModel/CustomerViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556174064573" expanded="true" signature="97:918" ph="{...}" />
+            <marker date="1556174064573" expanded="true" signature="134:916" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ProductProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557479912985" expanded="true" signature="6:44" ph="..." />
+            <marker date="1557479912985" expanded="true" signature="96:316" ph="{...}" />
+            <marker date="1557479912985" expanded="true" signature="140:314" ph="{...}" />
+            <marker date="1557479912985" expanded="true" signature="178:308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding>
+            <marker date="1557479916805" expanded="true" signature="6:105" ph="..." />
+            <marker date="1557479916805" expanded="true" signature="157:1092" ph="{...}" />
+            <marker date="1557479916805" expanded="true" signature="193:1090" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/ProductViewModel/ActionProductViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557394625590" expanded="true" signature="6:104" ph="..." />
+            <marker date="1557394625590" expanded="true" signature="156:1269" ph="{...}" />
+            <marker date="1557394625590" expanded="true" signature="198:1267" ph="{...}" />
+            <marker date="1557394625590" expanded="true" signature="302:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StockViewModel/StockProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <marker date="1557479922905" expanded="true" signature="6:44" ph="..." />
+            <marker date="1557479922905" expanded="true" signature="94:248" ph="{...}" />
+            <marker date="1557479922905" expanded="true" signature="136:246" ph="{...}" />
+            <marker date="1557479922905" expanded="true" signature="172:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557480384424" expanded="true" signature="33:177" ph="{...}" />
+            <marker date="1557480384424" expanded="true" signature="67:175" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StoreViewModel/StoreViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding>
+            <marker date="1557480202752" expanded="true" signature="6:105" ph="..." />
+            <marker date="1557480202752" expanded="true" signature="140:1005" ph="{...}" />
+            <marker date="1557480202752" expanded="true" signature="175:1003" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StoreViewModel/StoreProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557459402837" expanded="true" signature="6:44" ph="..." />
+            <marker date="1557459402837" expanded="true" signature="79:285" ph="{...}" />
+            <marker date="1557459402837" expanded="true" signature="121:283" ph="{...}" />
+            <marker date="1557459402837" expanded="true" signature="157:277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/UserViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <marker date="1557480384620" expanded="true" signature="6:71" ph="..." />
+            <marker date="1557480384620" expanded="true" signature="106:1200" ph="{...}" />
+            <marker date="1557480384620" expanded="true" signature="144:1198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/UserProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557386864646" expanded="false" signature="6:44" ph="..." />
+            <marker date="1557386864646" expanded="true" signature="79:386" ph="{...}" />
+            <marker date="1557386864646" expanded="true" signature="120:384" ph="{...}" />
+            <marker date="1557386864646" expanded="true" signature="155:378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StoreViewModel/EditStoreViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <marker date="1557459270511" expanded="true" signature="79:807" ph="{...}" />
+            <marker date="1557459270511" expanded="true" signature="117:805" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/StockViewModel/StockViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557480384716" expanded="true" signature="6:71" ph="..." />
+            <marker date="1557480384716" expanded="true" signature="121:567" ph="{...}" />
+            <marker date="1557480384716" expanded="true" signature="155:565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Dependency/Services/UserServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1485">
+          <folding>
+            <marker date="1557470655580" expanded="false" signature="6:265" ph="..." />
+            <marker date="1557470655580" expanded="true" signature="299:6389" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="302:920" ph="/* public interface IUserServices ... */" />
+            <marker date="1557470655580" expanded="true" signature="976:6387" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="1174:1256" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="1301:1355" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="1412:1828" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="1503:1561" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="1735:1793" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="1893:2100" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="2171:2381" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="2460:3595" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="2486:3444" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="2700:2804" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="2857:3308" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="3476:3572" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="3658:3869" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="3946:4191" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="4261:5331" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="4287:5180" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="4597:4701" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="5212:5308" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="5429:5934" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="5455:5796" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="5828:5924" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="5986:6381" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="6012:6230" ph="{...}" />
+            <marker date="1557470655580" expanded="true" signature="6262:6358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/AddUserViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557480422280" expanded="true" signature="6:77" ph="..." />
+            <marker date="1557480422280" expanded="true" signature="112:870" ph="{...}" />
+            <marker date="1557480422280" expanded="true" signature="148:868" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditUserViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <marker date="1557480384568" expanded="true" signature="6:104" ph="..." />
+            <marker date="1557480384568" expanded="true" signature="139:1262" ph="{...}" />
+            <marker date="1557480384568" expanded="true" signature="176:1260" ph="{...}" />
+            <marker date="1557480384568" expanded="true" signature="263:522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Views/User/_ChangePassword.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557385097173" expanded="true" signature="123:2210" ph="&lt;div.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="254:2203" ph="&lt;div.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="305:2192" ph="&lt;div.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="345:684" ph="&lt;div.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="503:665" ph="&lt;button.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="697:1851" ph="&lt;div.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="738:1832" ph="&lt;form.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="933:1350" ph="&lt;div.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="1371:1808" ph="&lt;div.../&gt;" />
+            <marker date="1557385097173" expanded="true" signature="1864:2177" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Views/User/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <folding>
+            <marker date="1557462889009" expanded="true" signature="117:222" ph="@..." />
+            <marker date="1557462889009" expanded="true" signature="223:628" ph="@*...*@" />
+            <marker date="1557462889009" expanded="true" signature="646:780" ph="@..." />
+            <marker date="1557462889009" expanded="true" signature="687:780" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="781:4174" ph="&lt;div.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="895:1322" ph="@..." />
+            <marker date="1557462889009" expanded="true" signature="919:1092" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="1101:1322" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="1327:4167" ph="&lt;table.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="1386:2049" ph="&lt;thead.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="1422:2032" ph="&lt;tr.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="2058:4154" ph="&lt;tbody.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="2074:4137" ph="@..." />
+            <marker date="1557462889009" expanded="true" signature="2103:4137" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="2149:2246" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="2263:4127" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="2294:4112" ph="&lt;tr.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="2319:2428" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="2449:2838" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="2549:2811" ph="&lt;button.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="2859:2970" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="2991:3099" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="3120:3274" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="3295:3405" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="3426:3537" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="3558:3676" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="3697:4090" ph="&lt;td.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="3852:4064" ph="&lt;a.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="4175:5349" ph="&lt;script.../&gt;" />
+            <marker date="1557462889009" expanded="true" signature="4202:5337" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="4332:4560" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="4421:4548" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="4643:5329" ph="{...}" />
+            <marker date="1557462889009" expanded="true" signature="4905:5317" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/ViewModels/UserViewModel/EditPasswordUserViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <marker date="1557480480567" expanded="true" signature="79:802" ph="{...}" />
+            <marker date="1557480480567" expanded="true" signature="124:800" ph="{...}" />
+            <marker date="1557480480567" expanded="true" signature="237:418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557391846955" expanded="true" signature="128:234" ph="@..." />
+            <marker date="1557391846955" expanded="true" signature="235:1501" ph="&lt;div.../&gt;" />
+            <marker date="1557391846955" expanded="true" signature="324:1494" ph="&lt;div.../&gt;" />
+            <marker date="1557391846955" expanded="true" signature="348:485" ph="@..." />
+            <marker date="1557391846955" expanded="true" signature="386:485" ph="{...}" />
+            <marker date="1557391846955" expanded="true" signature="494:1321" ph="&lt;form.../&gt;" />
+            <marker date="1557391846955" expanded="true" signature="577:963" ph="&lt;div.../&gt;" />
+            <marker date="1557391846955" expanded="true" signature="994:1300" ph="&lt;div.../&gt;" />
+            <marker date="1557391846955" expanded="true" signature="1034:1281" ph="&lt;div.../&gt;" />
+            <marker date="1557391846955" expanded="true" signature="1079:1258" ph="&lt;div.../&gt;" />
+            <marker date="1557391846955" expanded="true" signature="1330:1483" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskTranning/Views/Brand/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <marker date="1557302013543" expanded="true" signature="133:238" ph="@..." />
+            <marker date="1557302013543" expanded="true" signature="245:376" ph="@..." />
+            <marker date="1557302013543" expanded="true" signature="286:376" ph="{...}" />
+            <marker date="1557302013543" expanded="true" signature="381:2205" ph="&lt;div.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="503:921" ph="@..." />
+            <marker date="1557302013543" expanded="true" signature="527:693" ph="{...}" />
+            <marker date="1557302013543" expanded="true" signature="706:921" ph="{...}" />
+            <marker date="1557302013543" expanded="true" signature="931:2194" ph="&lt;table.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="994:1198" ph="&lt;thead.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="1014:1177" ph="&lt;tr.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="1211:2177" ph="&lt;tbody.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="1231:2156" ph="@..." />
+            <marker date="1557302013543" expanded="true" signature="1260:2156" ph="{...}" />
+            <marker date="1557302013543" expanded="true" signature="1314:1423" ph="{...}" />
+            <marker date="1557302013543" expanded="true" signature="1444:2142" ph="{...}" />
+            <marker date="1557302013543" expanded="true" signature="1483:2124" ph="&lt;tr.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="1512:1633" ph="&lt;td.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="1658:2098" ph="&lt;td.../&gt;" />
+            <marker date="1557302013543" expanded="true" signature="1848:2068" ph="&lt;a.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
